@@ -120,7 +120,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Math Quiz";
+            this.Text = "Math Quizzzzz";
             ((System.ComponentModel.ISupportInitialize)(this.mysum)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
